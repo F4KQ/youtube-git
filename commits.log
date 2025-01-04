@@ -1,0 +1,60 @@
+commit b5b1bbbc4aea7dbb89aed7e928bf6e199ea94d47
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Mon Dec 30 11:59:53 2024 -0300
+
+    v1.0.0
+
+commit 7d1eaf47647454e3777b1daf0be1e1d5efb2f7df
+Merge: b7f8033 eb50fee
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Sat Dec 28 20:05:48 2024 -0300
+
+    Resolviendo conflicto merge
+
+commit eb50feee6fd8c05cbc091e69670b776a7be78c8b
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Sat Dec 28 20:01:06 2024 -0300
+
+    agregando js al index.html
+
+commit b7f8033d06cf301b898b33cbaee8637ab12f6379
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Sat Dec 28 19:58:06 2024 -0300
+
+    agergando css al index.html
+
+commit ccfd36e2d8293535abfd56e1df9f05d4ad9b571a
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Fri Dec 27 21:23:01 2024 -0300
+
+    creando index.js
+
+commit bedfa71b758f9a9bcba16b4c78802c09df5bd9f6
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Fri Dec 27 21:17:53 2024 -0300
+
+    creando un styles.css
+
+commit 68298b86a00dbc197fe9d79b9edc9f5a0f9996b3
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Fri Dec 27 21:08:24 2024 -0300
+
+    Creando index en la rama html
+
+commit d28edd453032adc23c72c5ee77d0742564824e94
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Thu Dec 26 21:37:01 2024 -0300
+
+    ignorando archivos
+
+commit f859e1ac9eaaea12380606345d85109f95f3f4b2
+Author: F4KQ <164691083+F4KQ@users.noreply.github.com>
+Date:   Thu Dec 26 21:25:27 2024 -0300
+
+    Create desde el remoto
+
+commit 80500703c0088fc6824a0ef0ed0ec3bdd52ab801
+Author: Facundo <espindolafacundo692@gmail.com>
+Date:   Thu Dec 26 20:53:58 2024 -0300
+
+    primer cambio realizado

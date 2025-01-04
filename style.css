@@ -1,3 +1,9 @@
 * {
   background-color: black;
+  color: whitesmoke;
+}
+
+h1 {
+  border: 2px solid white;
+  text-align: center;
 }
